@@ -18,6 +18,10 @@ The app also supports below useful features.
 5.	Automatic saving of images in their respective location-based folders.
 6.	Automatic tagging of the image type i.e. as PPT or Document.
 
+Technolgies used:
+1. React Native using Expo framework
+2. Python Django and ML libraries.
+
 App Developed By:
 1. Vamsi Krishna Palaparti
 2. Vasanth Tulasi
